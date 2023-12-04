@@ -56,7 +56,7 @@ function App() {
 
           />
 
-         <a className="a-tag" href={fileurl}>pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp</a>
+         <a className="a-tag" href={fileurl}>{fileurl}</a>
 
         </div>
 
